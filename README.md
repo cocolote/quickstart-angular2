@@ -1,15 +1,17 @@
 ## FIRST ANGULAR 2 APP
 
--installation
+- installation
 
 clone repo and then navigate to the directory. Execute this command to install
 the components
+
 `~> quickstart git:(master) npm install`
 
 Run the application with this command
+
 `quickstart git:(master) ~> npm start` 
 
--Note:
+- Note:
 
 If you see that there are some problems with lite-server, if you are running linux
 modify this file `~> /etc sysctl.conf` and add this lines
